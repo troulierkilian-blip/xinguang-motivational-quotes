@@ -1,31 +1,31 @@
-# 心光 · 激励语录
+# 心光 · 离线中文激励语录
 
-一个可以直接双击运行的离线 Windows 桌面应用。180 条原创中文语录与 12 张主题风景同步切换，提供复制、收藏和收藏列表。
+简体中文 · [English](README.en.md)
 
-**[下载 Windows 便携版 v1.0.0](https://github.com/troulierkilian-blip/xinguang-motivational-quotes/releases/download/v1.0.0/xinguang-v1.0.0-windows-x64.zip)** · [全部发布版本](https://github.com/troulierkilian-blip/xinguang-motivational-quotes/releases) · [MIT 许可](LICENSE)
+> 你不必一次看清整条路，先让脚下的这一步有光。
 
-![心光实际运行界面](docs/preview.png)
+这是心光「希望」主题中的一句。打开这款 Windows 桌面应用，按空格，下一条语录和它的风景就会一起出现。喜欢哪一句，可以复制到笔记，或留在自己的收藏里。
 
-## 运行
+**[下载 Windows x64 便携版](https://github.com/troulierkilian-blip/xinguang-motivational-quotes/releases/latest)** · 在 **Assets** 中选文件名以 `windows-x64.zip` 结尾的压缩包，解压后双击 **心光.exe**。无需安装 Python、联网或登录。下载包附中文说明，发布页附 SHA-256 校验文件。
 
-从上方下载 Windows ZIP，解压后双击 `心光.exe` 即可运行。无需安装 Python、登录账号或联网。下载包中的 `使用说明.txt` 提供详细操作说明。
+![心光运行界面：希望主题的语录叠在日出海岸的背景上，下方可以换一句、复制或收藏](docs/preview.png)
 
-GitHub 页面绿色 Code 按钮下载的是源码；直接使用软件请下载 Releases 中的 Windows 便携版。开发环境构建的 EXE 位于 `dist/心光.exe`。
+## 翻一句，留一句
 
-| 操作 | 功能 |
+| 想做的事 | 操作 |
 | --- | --- |
-| 换一句 / 空格键 | 同时更换语录与相关背景 |
-| 复制语录 / Ctrl+C | 复制当前语录正文 |
-| 收藏这句 / Ctrl+D | 收藏或取消收藏 |
-| 我的收藏 / Ctrl+L | 查看、复制和取消已收藏的语录 |
+| 换一句，也换一幅风景 | 点 **换一句** 或按 `空格` |
+| 把正文贴进笔记 | 点 **复制语录** 或按 `Ctrl+C`，再到笔记中粘贴 |
+| 留住这一句 | 点 **收藏这句** 或按 `Ctrl+D`；再次操作可取消收藏 |
+| 下次打开时找回来 | 点 **我的收藏** 或按 `Ctrl+L`；可以在列表里复制和取消收藏 |
 
-窗口默认 1100×720，可缩放；系统屏幕较小时会调整初始窗口。界面包含半透明卡片、暖金色按钮和约 400 毫秒的转场。连续快速点击在转场结束前不会重复触发。
+![收藏列表中的希望主题语录，以及复制、取消收藏按钮](docs/favorites.png)
 
-语录采用随机打乱的完整轮次：每轮 180 句不重复；背景通过语录主题匹配，每次更换都避免使用上一张图片。六个主题各有 30 句和两张风景。
+[语录全文](assets/quotes.json)包含坚持、勇气、希望、成长、专注和行动六个主题，每个主题 30 句原创中文语录、两张风景。每轮随机读完 180 句，轮内不重复。切换时按主题选图，避免连续显示同一张背景。
 
-收藏保存到 `%LOCALAPPDATA%/XinGuang/XinGuang/favorites.json`，移动 EXE 后仍会保留。程序以临时文件加原子替换保存；损坏的文件会保留备份。测试模式的收藏使用独立目录，不影响真实收藏。
+窗口默认 1100×720，可缩放；较小屏幕会调整初始窗口。点击「换一句」时，半透明卡片和风景经过约 400 毫秒转场，连续快速点击会合并处理。
 
-下载包旁提供 `xinguang-v1.0.0-SHA256SUMS.txt`；ZIP 内也包含各文件的 `SHA256SUMS.txt`，可用于核对文件完整性。
+收藏保存在 `%LOCALAPPDATA%/XinGuang/XinGuang/favorites.json`，移动 EXE 后仍会保留。程序以临时文件加原子替换保存；损坏的文件会保留备份。测试模式使用独立目录。
 
 ## 开发与重复打包
 
