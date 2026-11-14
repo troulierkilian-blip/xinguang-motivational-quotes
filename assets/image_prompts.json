@@ -1,0 +1,66 @@
+{
+  "tool": "built-in image_gen",
+  "usage": "Offline backgrounds for XinGuang desktop application",
+  "assets": [
+    {
+      "id": "perseverance_1",
+      "prompt": "Use case: photorealistic-natural\nAsset type: immersive offline desktop application background, landscape 16:9, high resolution\nPrimary request: an inspiring alpine footpath winding toward a distant mountain summit, delicate morning mist, realistic landscape photography\nScene/backdrop: layered blue mountain ridges, stone trail in foreground, faint warm light breaking over the ridge\nComposition/framing: wide cinematic photograph; quietly textured central area suitable for an overlaid quote card, no person\nLighting/mood: calm determination, hopeful soft golden dawn, natural subdued colors\nConstraints: a single complete photograph, no collage, no text, no logos, no watermark.",
+      "file": "backgrounds/perseverance_1.png"
+    },
+    {
+      "id": "perseverance_2",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: a narrow hiking trail climbing through a misty green mountain pass, old stone steps, layered soft blue ridges, late afternoon sunlight, quiet resilience\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/perseverance_2.png"
+    },
+    {
+      "id": "courage_1",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: dramatic rugged coastal cliffs above a deep teal ocean, waves far below, a wide horizon with warm dawn light, a calm powerful feeling of courage\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/courage_1.png"
+    },
+    {
+      "id": "courage_2",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: a majestic steep granite cliff face in an alpine valley, distant waterfalls and drifting clouds, golden sunlight touching the summit, dignified and uplifting\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/courage_2.png"
+    },
+    {
+      "id": "hope_1",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: a tranquil ocean sunrise with a luminous golden sun on the horizon, peach and pale blue sky, delicate waves and soft light on the water, fresh hopeful morning\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/hope_1.png"
+    },
+    {
+      "id": "hope_2",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: sunrise over a field of wildflowers and gentle hills, amber light shining through morning mist, fresh grass and a peaceful glowing horizon\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/hope_2.png"
+    },
+    {
+      "id": "growth_1",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: a lush green forest with young ferns and tall trees, soft golden sunbeams passing through leaves, a quiet path in the background, feeling of steady growth\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/growth_1.png"
+    },
+    {
+      "id": "growth_2",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: a fresh birch woodland in spring, delicate leaves and a young sapling in the foreground, filtered morning light and softly layered green canopy\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/growth_2.png"
+    },
+    {
+      "id": "focus_1",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: a mirror-still alpine lake reflecting blue mountains and a pastel dawn sky, subtle reeds on one side, large calm open water, mindful tranquility\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/focus_1.png"
+    },
+    {
+      "id": "focus_2",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: a secluded emerald forest lake with perfectly calm reflections, distant mist and softly lit trees, contemplative atmosphere, subdued blue green palette\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/focus_2.png"
+    },
+    {
+      "id": "action_1",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: an empty winding asphalt road leading toward distant mountain peaks, golden fields on both sides, expansive early morning sky, feeling of setting out on a journey\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/action_1.png"
+    },
+    {
+      "id": "action_2",
+      "prompt": "Use case: photorealistic-natural\nAsset type: high resolution 16:9 immersive desktop application background\nPrimary request: an inviting wooden boardwalk stretching toward the horizon through coastal dunes and grasses, calm blue sea beyond, warm morning light, feeling of beginning a journey\nStyle/medium: refined realistic landscape photography, cinematic yet natural, believable detailed textures\nComposition/framing: a single complete wide landscape photograph, gently textured center suitable for an overlaid quote card\nConstraints: no person, no lettering, no text, no logo, no watermark, no collage.",
+      "file": "backgrounds/action_2.png"
+    }
+  ]
+}

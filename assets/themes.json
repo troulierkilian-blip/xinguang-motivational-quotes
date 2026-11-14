@@ -1,0 +1,8 @@
+[
+  {"id":"perseverance","name":"坚持","english":"PERSEVERANCE","backgrounds":["perseverance_1.png","perseverance_2.png"]},
+  {"id":"courage","name":"勇气","english":"COURAGE","backgrounds":["courage_1.png","courage_2.png"]},
+  {"id":"hope","name":"希望","english":"HOPE","backgrounds":["hope_1.png","hope_2.png"]},
+  {"id":"growth","name":"成长","english":"GROWTH","backgrounds":["growth_1.png","growth_2.png"]},
+  {"id":"focus","name":"专注","english":"FOCUS","backgrounds":["focus_1.png","focus_2.png"]},
+  {"id":"action","name":"行动","english":"ACTION","backgrounds":["action_1.png","action_2.png"]}
+]

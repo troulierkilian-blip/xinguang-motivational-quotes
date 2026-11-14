@@ -1,0 +1,14 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(filevers=(1,0,0,0), prodvers=(1,0,0,0), mask=0x3f,
+                    flags=0x0, OS=0x40004, fileType=0x1, subtype=0x0, date=(0,0)),
+  kids=[StringFileInfo([StringTable('080404b0', [
+    StringStruct('CompanyName', 'XinGuang'),
+    StringStruct('FileDescription', '心光 · 离线激励语录'),
+    StringStruct('FileVersion', '1.0.0'),
+    StringStruct('InternalName', 'XinGuang'),
+    StringStruct('OriginalFilename', '心光.exe'),
+    StringStruct('ProductName', '心光'),
+    StringStruct('ProductVersion', '1.0.0'),
+    StringStruct('LegalCopyright', 'Copyright © 2026 XinGuang contributors'),
+  ])]), VarFileInfo([VarStruct('Translation', [2052, 1200])])]
+)
