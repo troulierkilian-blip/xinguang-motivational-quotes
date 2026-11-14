@@ -78,3 +78,11 @@ powershell -ExecutionPolicy Bypass -File .\build.ps1
 项目源码及语录采用 MIT 许可。第三方 Qt / PySide6、Python 等组件遵循各自许可，完整文本见 `assets/licenses/` 及 Windows 下载包的 `licenses/`。
 
 12 张主题风景由内置 image_gen 工具生成，已随项目提供；生成提示词见 `assets/image_prompts.json`。背景是主题视觉素材，未作为真实地点标注。
+
+## 支持项目
+
+如果「心光 · 激励语录」帮到了你，欢迎通过支付宝或微信扫码打赏。感谢你的支持！
+
+| 支付宝 | 微信 |
+| :---: | :---: |
+| <img src="assets/sponsors/alipay.jpg" alt="支付宝收款码" width="220"> | <img src="assets/sponsors/wechat.jpg" alt="微信收款码" width="220"> |
